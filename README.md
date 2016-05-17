@@ -1,5 +1,3 @@
-# Bloc-Jams-Angular
-
 <h1>Bloc-Jams-Angular</h1>
 <p>A music player application. (Refactor of Bloc-Jams using AngularJS)</p>
 
